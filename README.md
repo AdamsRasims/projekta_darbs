@@ -1,7 +1,9 @@
-# Projekta Darbs - Telefona Cenu Iegūšana
+# Projekta Darbs - Cenu Trackers
+
+
 
 ## Darba Uzdevums
-Šī projekta darba uzdevums ir automatizēt tirgotāju vietņu pārlūkošanu, iegūt informāciju par izvēlēto telefonu cenām un saglabāt šo informāciju Excel failā.
+Šo projektu veidoju kopā ar Eduardu Valneri (231RDB215) un šī projekta darba uzdevums ir automatizēt tirgotāju vietņu pārlūkošanu, iegūt informāciju un apstrādāt to par izvēlēto telefonu cenām un saglabāt šo informāciju Excel failā. 
 
 ## Izmantotās Bibliotēkas un to nolūks
 
@@ -27,4 +29,4 @@
 ### Koda Struktūra
 - Izmanto mazākas funkcijas vai metodes, lai atvieglotu kodu un nodrošinātu vienkāršāku uzturēšanu.
 
-Š;is metodes nodrošinās projektu ar skaidru struktūru, ļaujot viegli pielāgoties un paplašināt funkcionalitāti nākotnē.
+Šis metodes nodrošinās projektu ar skaidru struktūru, ļaujot viegli pielāgoties un paplašināt funkcionalitāti nākotnē.
