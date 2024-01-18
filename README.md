@@ -3,7 +3,7 @@
 
 
 ## Darba Uzdevums
-Šo projektu veidoju kopā ar Eduardu Valneri (231RDB215), projekts ir paradzēts personīgām interesēm un tas laika gaitā tiks uzlabots. Šī projekta darba uzdevums ir automatizēt tirgotāju vietņu pārlūkošanu, iegūt informāciju un apstrādāt to par izvēlēto telefonu cenām un saglabāt šo informāciju Excel failā. 
+Šo projektu veidoju kopā ar Eduardu Valneri (231RDB215), projekts ir paradzēts personīgām interesēm un tas laika gaitā tiks uzlabots. Šī projekta darba uzdevums ir automatizēt tirgotāju vietņu pārlūkošanu, iegūt informāciju un apstrādāt to par izvēlēto telefonu cenām un saglabāt šo informāciju Excel failā. Šis kods ir veidots tā, lai ievietojot URL un XPATH priekš cenas (kas ir katra svam URL) excel failā iegūs izvēlētā telefona cenu.
 
 ## Izmantotās Bibliotēkas un to nolūks
 
