@@ -3,7 +3,7 @@
 
 
 ## Darba Uzdevums
-Šo projektu veidoju kopā ar Eduardu Valneri (231RDB215), projekts ir paradzēts personīgām interesēm un tas laika gaitā tas tiks uzlabots. Šī projekta darba uzdevums ir automatizēt tirgotāju vietņu pārlūkošanu, iegūt informāciju un apstrādāt to par izvēlēto telefonu cenām un saglabāt šo informāciju Excel failā. 
+Šo projektu veidoju kopā ar Eduardu Valneri (231RDB215), projekts ir paradzēts personīgām interesēm un tas laika gaitā tiks uzlabots. Šī projekta darba uzdevums ir automatizēt tirgotāju vietņu pārlūkošanu, iegūt informāciju un apstrādāt to par izvēlēto telefonu cenām un saglabāt šo informāciju Excel failā. 
 
 ## Izmantotās Bibliotēkas un to nolūks
 
